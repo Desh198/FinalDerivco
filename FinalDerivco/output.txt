@@ -1,0 +1,13 @@
+zack matches kimberly 91%, Good Match
+billy matches trini 71%
+jason matches billy 71%
+jason matches trini 71%
+zack matches trini 70%
+billy matches billy 62%
+tommy matches trini 62%
+zack matches billy 61%
+tommy matches billy 53%
+billy matches kimberly 20%
+jason matches kimberly 20%
+tommy matches kimberly 20%
+

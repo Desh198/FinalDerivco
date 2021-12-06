@@ -1,0 +1,12 @@
+Time take to run application 10976ms 
+
+Time take to run application 8995ms 
+
+Time take to run application 8082ms 
+
+Time take to run application 8530ms 
+
+Time take to run application 7821ms 
+
+Time take to run application 9547ms 
+
